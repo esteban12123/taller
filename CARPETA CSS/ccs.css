@@ -1,0 +1,12 @@
+header {
+    margin-bottom: 50px;
+    background-color: rgb(238, 33, 33);
+    color: rgb(253, 247, 247);
+    padding: 5px;
+  }
+  
+  header p {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 60px;
+  }
